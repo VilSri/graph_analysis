@@ -1,0 +1,7 @@
+random
+DateTime==5.1
+pandas==2.0.0
+numpy==1.24.2
+streamlit==1.23.1
+networkx==3.1
+matplotlib==3.8.0
